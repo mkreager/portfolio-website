@@ -13,4 +13,5 @@ Mobile-first photography portfolio web design project.
 5. [Static site hosting on AWS](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) with S3, CloudFront and Route 53
 
 ## To Do
-Remove jQuery dependency (currently used only for animation of the menu)
+1. Remove jQuery dependency (currently used only for animation of the menu)
+2. Use static site generator tools to eliminate code redundancy ([Gatsby](https://www.gatsbyjs.org/), [Middleman](https://middlemanapp.com/), [Jekyll](https://jekyllrb.com/))
