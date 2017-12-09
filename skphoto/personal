@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta content="IE=edge" http-equiv="X-UA-Compatible">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
+    <title>Personal | Seanna Kreager Photography</title>
+    <meta content="Beautiful photography services in Ottawa and beyond." name="description">
+    <script>
+       WebFontConfig = {
+          google: {
+            families: ['Roboto']
+          }
+       };
+       (function(d) {
+          var wf = d.createElement('script'), s = d.scripts[0];
+          wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+          wf.async = true;
+          s.parentNode.insertBefore(wf, s);
+       })(document);
+    </script>
+    <style type="text/css">body,html{box-sizing:border-box}*{border:0;font:inherit;margin:0;padding:0;text-rendering:geometricPrecision}body,h3,h4{font-family:Roboto,sans-serif}html{font-size:62.5%;height:100%}@media screen and (min-width:960px){html{font-size:78.125%}}body{color:#3c3c3d;font-size:1.6rem;line-height:2.4rem;min-height:100%;position:relative}h3,h4{font-weight:500}h3{line-height:4.8rem;padding:.8rem 0 1.6rem}h4{padding:2.4rem 0}h3{font-size:2.8rem}h4{font-size:2rem}p{padding-bottom:2.4rem}a:link,a:visited{color:#4076D4}a:active,a:focus,a:hover{color:#D44076}img{max-width:100%;display:table}ul{margin-left:2rem;padding:0 0 2.4rem}ul{list-style-type:disc}strong{font-weight:700}.ta-center{text-align:center}.grid{display:-ms-flexbox;display:-webkit-box;display:flex}.grid>*{-ms-flex:1;flex:1;-webkit-box-flex:4;-ms-flex-positive:4;flex-grow:4;padding-left:1rem;padding-right:1rem}.grid>:first-child{margin-left:-1rem}.grid>:last-child{margin-right:-1rem}@media (max-width:599px){.grid--medium{display:block}.grid--medium>*{padding-left:0;padding-right:0}.grid--medium>:first-child{margin-left:0}.grid--medium>:last-child{margin-right:0}}.wrapper{margin:0 auto;max-width:960px;padding:2.4rem 2rem}#menu,#menu>.inner{-webkit-overflow-scrolling:touch;top:0}#menu>.close,#menu>.inner,#menu_button,.logo{position:absolute}header{margin-bottom:2.4rem;background-color:#f2f2f2}header img{width:100%}#menu{-moz-transform:translateX(22em);-webkit-transform:translateX(22em);-ms-transform:translateX(22em);transform:translateX(22em);-moz-transition:-moz-transform .45s ease,visibility .45s;-webkit-transition:-webkit-transform .45s ease,visibility .45s;-ms-transition:-ms-transform .45s ease,visibility .45s;transition:transform .45s ease,visibility .45s;position:fixed;right:0;width:22em;max-width:80%;height:100%;background:#585858;color:#fff;cursor:default;visibility:hidden;z-index:10004}#menu>.close:after,#menu>.close:before{background-image:url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100' preserveAspectRatio='none'%3E%3Cstyle%3Eline %7B stroke-width: 8px%3B stroke: %23ffffff%3B %7D%3C/style%3E%3Cline x1='15' y1='15' x2='85' y2='85' /%3E%3Cline x1='85' y1='15' x2='15' y2='85' /%3E%3C/svg%3E")}#menu>.inner{-moz-transition:opacity .45s ease;-webkit-transition:opacity .45s ease;-ms-transition:opacity .45s ease;transition:opacity .45s ease;left:0;width:100%;height:100%;padding:2.75em;opacity:0;overflow-y:auto}#menu>.inner>ul{list-style:none;margin:0 0 1em;padding:1rem 0}#menu>.inner>ul>li{padding:0}#menu>.inner>ul>li a{display:block;padding:1rem 0;line-height:1.5;border:0;color:#fff}a:visited,footer,footer a:link{color:#586069}#menu>.inner>ul>li:first-child{border-top:0;margin-top:-1em}#menu>.close{-moz-transition:opacity .45s ease,-moz-transform .45s ease;-webkit-transition:opacity .45s ease,-webkit-transform .45s ease;-ms-transition:opacity .45s ease,-ms-transform .45s ease;transition:opacity .45s ease,transform .45s ease;-moz-transform:scale(.25) rotate(180deg);-webkit-transform:scale(.25) rotate(180deg);-ms-transform:scale(.25) rotate(180deg);transform:scale(.25) rotate(180deg);-webkit-tap-highlight-color:transparent;display:block;top:0;right:0;width:6em;text-indent:6em;height:3em;border:0;font-size:1em;opacity:0;overflow:hidden;padding:0;white-space:nowrap}#menu>.close:after,#menu>.close:before{-moz-transition:opacity .2s ease;-webkit-transition:opacity .2s ease;-ms-transition:opacity .2s ease;transition:opacity .2s ease;content:'';display:block;position:absolute;top:0;left:0;width:100%;height:100%;background-position:center;background-repeat:no-repeat;background-size:2em 2em}#menu>.close:before{opacity:0}#menu>.close:after{opacity:1}@media screen and (max-width:736px){#menu{-moz-transform:translateX(16.5em);-webkit-transform:translateX(16.5em);-ms-transform:translateX(16.5em);transform:translateX(16.5em);width:16.5em}#menu>.inner{padding:2.75em 1.5em}#menu>.close{top:.5em;right:0;width:4.25em;text-indent:4.25em}#menu>.close:after,#menu>.close:before{background-size:1.5em 1.5em}}#nav,#top{position:fixed;left:0;top:0;width:100%;height:3em}body.is-menu-visible #menu{-moz-transform:translateX(0);-webkit-transform:translateX(0);-ms-transform:translateX(0);transform:translateX(0);visibility:visible}body.is-menu-visible #menu>*{opacity:1}body.is-menu-visible #menu .close{-moz-transform:scale(1) rotate(0);-webkit-transform:scale(1) rotate(0);-ms-transform:scale(1) rotate(0);transform:scale(1) rotate(0);opacity:1}#top{display:block;z-index:10000;background:rgba(255,255,255,.95);border-bottom:1px solid #f2f2f2}#nav{z-index:10003;line-height:3em}#nav a{color:#3c3c3d;letter-spacing:.1em}.logo{left:1rem;padding:0 1rem}#menu_button{right:1rem;height:3em;padding:0 1rem 0 2rem}.hamburger{position:relative;display:inline-block;width:1.5em;height:.8em;border-top:.2em solid #3c3c3d;border-bottom:.2em solid #3c3c3d;top:9%}.hamburger:before{content:"";position:absolute;top:.3em;left:0;width:100%;border-top:.2em solid #3c3c3d}a{text-decoration:none}img{margin:0 auto}body{margin-top:4.8rem}footer{font-size:90%}footer .list{margin-bottom:2rem}@media (max-width:599px){.hide-mobile{display:none}}</style>
+    <script src="assets/js/jquery-3.2.1.slim.min.js" defer></script>
+    <script src="assets/js/menu.min.js" defer></script>
+    <script>document.createElement( "picture" );</script>
+    <script src="assets/js/picturefill.min.js" async></script>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  </head>
+  <body>
+    <div>
+      <span id="top"></span>
+      <span id="nav">
+        <a href="/" class="logo"><strong>SK</strong> PHOTO</a>
+        <a href="#menu" id="menu_button">
+          <span class="hamburger"></span>
+        </a>
+      </span>
+    </div>
+    <nav id="menu">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="weddings">Weddings</a></li>
+        <li><a href="engagement">Engagement</a></li>
+        <li><a href="portraits">Portraits</a></li>
+        <li><a href="family">Family</a></li>
+        <li><a href="kids">Kids</a></li>
+        <li><a href="personal">Personal</a></li>
+        <li><a href="about">About</a></li>
+      </ul>
+    </nav>
+    <header class="ta-center">
+      <picture>
+        <source media="(min-width: 1200px)" srcset="images/banners/three-people-walking-on-a-boardwalk.jpg" />
+        <source media="(min-width: 600px)" srcset="images/banners/three-people-walking-on-a-boardwalk-medium.jpg" />
+        <img src="images/banners/three-people-walking-on-a-boardwalk-small.jpg" alt="Three people walking on a boardwalk">
+      </picture>
+    </header>
+    <section class="wrapper ta-center">
+      <h4>Personal Photography</h4>
+    </section>
+    <section class="ta-center">
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/old-quebec-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/old-quebec-medium.jpg" />
+          <img src="images/personal/old-quebec.jpg" alt="Old Quebec" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/sundown-at-the-beach-in-pei-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/sundown-at-the-beach-in-pei-medium.jpg" />
+          <img src="images/personal/sundown-at-the-beach-in-pei.jpg" alt="Sundown at the beach in PEI" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/waves-at-the-beach-in-pei-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/waves-at-the-beach-in-pei-medium.jpg" />
+          <img src="images/personal/waves-at-the-beach-in-pei.jpg" alt="Waves at the beach in PEI" />
+        </picture>
+      </div>
+      <div class="wrapper grid">
+        <div>
+          <img src="images/personal/footsteps-on-the-beach-in-nova-scotia.jpg" alt="Footsteps on the beach in Nova Scotia" />
+        </div>
+        <div>
+          <img src="images/personal/hiking-to-the-lighthouse-in-nova-scotia.jpg" alt="Hiking to the lighthouse in Nova Scotia" />
+        </div>
+      </div>
+      <div class="wrapper">
+        <img src="images/personal/blue-sky.jpg" alt="Blue Sky" />
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/window-pane-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/window-pane-medium.jpg" />
+          <img src="images/personal/window-pane.jpg" alt="Window Pane" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/plate-tectonics-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/plate-tectonics-medium.jpg" />
+          <img src="images/personal/plate-tectonics.jpg" alt="Plate Tectonics" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/waterfall-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/waterfall-medium.jpg" />
+          <img src="images/personal/waterfall.jpg" alt="Waterfall" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/foss-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/foss-medium.jpg" />
+          <img src="images/personal/foss.jpg" alt="Foss" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <img src="images/personal/sam-roberts.jpg" alt="Sam Roberts" />
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 600px)" srcset="images/personal/gord-downie-medium.jpg" />
+          <img src="images/personal/gord-downie.jpg" alt="Gord Downie" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 600px)" srcset="images/personal/jacob-hoggard-medium.jpg" />
+          <img src="images/personal/jacob-hoggard.jpg" alt="Jacob Hoggard" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/joel-plaskett-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/joel-plaskett-medium.jpg" />
+          <img src="images/personal/joel-plaskett.jpg" alt="Joel Plaskett" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/bookfair-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/bookfair-medium.jpg" />
+          <img src="images/personal/bookfair.jpg" alt="Bookfair" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/clowns-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/clowns-medium.jpg" />
+          <img src="images/personal/clowns.jpg" alt="Clowns" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/ice-cream-cone-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/ice-cream-cone-medium.jpg" />
+          <img src="images/personal/ice-cream-cone.jpg" alt="Ice Cream Cone" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/curious-cattle-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/curious-cattle-medium.jpg" />
+          <img src="images/personal/curious-cattle.jpg" alt="Curious Cattle" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/light-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/light-medium.jpg" />
+          <img src="images/personal/light.jpg" alt="Light" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/dark-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/dark-medium.jpg" />
+          <img src="images/personal/dark.jpg" alt="Dark" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/halloween-night-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/halloween-night-medium.jpg" />
+          <img src="images/personal/halloween-night.jpg" alt="Halloween Night" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/snowbirds-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/snowbirds-medium.jpg" />
+          <img src="images/personal/snowbirds.jpg" alt="Snowbirds" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 600px)" srcset="images/personal/sweet-puppy-medium.jpg" />
+          <img src="images/personal/sweet-puppy.jpg" alt="Sweet Puppy" />
+        </picture>
+      </div>
+      <div class="wrapper">
+        <picture>
+          <source media="(min-width: 900px)" srcset="images/personal/wizard-of-oz-large.jpg" />
+          <source media="(min-width: 600px)" srcset="images/personal/wizard-of-oz-medium.jpg" />
+          <img src="images/personal/wizard-of-oz.jpg" alt="Wizard of Oz" />
+        </picture>
+      </div>
+    </section>
+    <footer class="grid wrapper">
+      <div class="list">
+        <strong>SK</strong> PHOTO
+        <br/>
+        &copy;2017
+      </div>
+      <div class="list hide-mobile">
+        <div><strong>Galleries</strong></div>
+        <div><a href="weddings">Weddings</a></div>
+        <div><a href="engagement">Engagement</a></div>
+        <div><a href="portraits">Portraits</a></div>
+        <div><a href="family">Family</a></div>
+        <div><a href="kids">Kids</a></div>
+        <div><a href="personal">Personal</a></div>
+      </div>
+      <div class="list hide-mobile">
+        <div><strong>Social</strong></div>
+        <div><a href="https://twitter.com/seannak" target="_blank">Twitter</a></div>
+        <div><a href="https://www.facebook.com/skphoto.ca" target="_blank">Facebook</a></div>
+        <div><a href="https://www.instagram.com/seannak26/" target="_blank">Instagram</a></div>
+      </div>
+      <div class="list">
+        <div><strong>Contact</strong></div>
+        <div><a href="mailto:seannak@rogers.com">seannak@rogers.com</a></div>
+        <div>613-986-8620</div>
+      </div>
+    </footer>
+  </body>
+</html>
