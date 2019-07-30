@@ -2,8 +2,7 @@
 Mobile-first photography portfolio web design project. 
 
 ## Optimized for Speed
-1. [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fwww.skphoto.ca&tab=mobile)
-2. [WebPagetest](https://www.webpagetest.org/result/171209_F0_b8e42065b4431ed72e0860be06746090/)
+1. [WebPagetest](https://www.webpagetest.org/result/171209_F0_b8e42065b4431ed72e0860be06746090/)
 
 ## Strategies
 1. [Inline CSS](https://developers.google.com/speed/docs/insights/InlineCSS)
